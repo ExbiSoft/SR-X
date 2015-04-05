@@ -1,2 +1,3 @@
-# SR-X
-For SpeedRunners X
+# SpeedRunners X Website
+
+A project by Poisonyy, Benji and Pup
